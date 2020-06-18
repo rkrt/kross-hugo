@@ -1,4 +1,4 @@
-baseURL = "confident-visvesvaraya-2a73b9.netlify.app"
+baseURL = "http://confident-visvesvaraya-2a73b9.netlify.app/"
 languageCode = "en-us"
 summaryLength = "10"
 theme = "kross-hugo"
